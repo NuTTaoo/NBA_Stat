@@ -13,3 +13,5 @@ $${\color{lightblue}Light \space Blue}$$
 4444 $${\color{#006400}ลบ}$$ 444
 
 4444 $${\color{#8B008B}ลบ}$$ 444
+
+<span style="color: #90EE90;">ลบ</span>
