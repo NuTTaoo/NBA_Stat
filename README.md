@@ -5,4 +5,4 @@ $${\color{lightblue}Light \space Blue}$$
 
 
 <code style="color : red">ลบ</code>
-$${\color{red}Red}$$
+$${\color{red}ลบ}$$
